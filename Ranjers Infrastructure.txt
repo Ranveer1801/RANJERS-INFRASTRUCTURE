@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RANJERS INFRASTRUCTURE</title>
+    <link rel="stylesheet" href="style.css">
+     <script src=""></script>
+    
+<html>
+  <head>
+    <title>RANJERS INFRASTRUCTURE</title>
+    <style>
+    </style>
+  </head>
+  <body>
+    <section>
+      <img  src="https://i.postimg.cc/QNcds0bR/Screenshot-422.png">
+      
+      <h1> RANJERS INFRASTRUCTURE <br><span id="name>"> </span></h1><div>
+      </section>
+      <section id="bio">
+        <h1>MANUFRACTURING OF PSC POLE
+8 MTR AND 9 MTR</div>
+        </section>
+        <section id="bio">
+        <h1></h1><div class="line">
+          </div>
+          ____________
+          ____________
+      <h2>Profile Of Company</h2>
+        <p> Brief profile:
+ Ours is not merely A company but in institution harboring ingenuity in perception towards the purpose
+of meaningful and timely achievement in manufacturing of PSC electric poles.
+ This unit at Babhulgaon near Kalantari lawns patoda road Yeola Dist Nasik ,Maharashtra pin 423401.
+ Has been established in line with our mission of expanding itself and contributing to the field of
+providing of basic infrastructure like PSC pole.
+ By setting up this we can now boast of contribution to the power sector in the state of Maharashtra
+.Apart from this we have factories in the state of Maharashtra.
+</p>       <p>Firm profile:
+ The structured composition of the company is with respect to the versatility of skill it encompasses by
+virtue highly competent professionals. The range and penetration of experience nails down in. Each
+and every aspect of prestressed concrete electrical poles manufacturing to the minutes of the details.
+ Personal enrichment of the professional knowledge of the theory and practice gathered during a long
+period of Thirty Years in production of PSC poles</p>
+          _______________   _______________
+      </section>
+      <section id=photo>
+       <h1></h1><div class="line"> 
+        <h3>The Plant With 72(9mtr)Mould and 27(8mtr) mould.</h3>
+        <img id="slide1" src="https://i.postimg.cc/zvxM5sPC/Screenshot-423.png">     
+      </section>
+        _____________
+        _____________
+        <section>
+          <div>
+            <h4>Arrangement of stock of pole and pole casting.</h4>
+            <img id="slide2" src="https://i.postimg.cc/65sz45C8/Screenshot-424.png"><img id="slide2-2" src="https://i.postimg.cc/kMWKZNt5/Screenshot-425.png">
+          </div
+        </section>
+            ____________
+            ____________
+            <section>
+              <div>
+                <h5>Drawing of PSC pole 8M&9M</h5>
+                <img id="slide=3" src="https://i.postimg.cc/d1r64bYs/Screenshot-426.png"> <img id="slide3-3" src="https://i.postimg.cc/XNgcqcNz/Screenshot-427.png">
+              </div>
+            </section>
+            ___________
+            ___________
+            <section>
+              <div>
+                <h6>Deatails Of PSC Pole</h6>
+                <img id="slide4" src="https://i.postimg.cc/CMvB9vxS/Screenshot-429.png">
+              </div>
+            </section>
+            ________________
+            ________________
+            
+            <section>
+             <div> <div>
+                <h7>Positive pole Test Report 
+                    and Concrete Cube Report</h7></div>
+                <img id="slide5" src="https://i.postimg.cc/Fzh6crL5/Screenshot-430.png"><img id="slide5-5" src="https://i.postimg.cc/BbwC645C/Screenshot-431.png">
+              </div>
+            </section>
+            _______________
+            _______________
+            <section>
+              <div>
+               <div> <h7>facilities of transportation</h7></div>
+                <img id="slide" src="https://i.postimg.cc/HLP7Txv2/Screenshot-432.png">
+                <img id="slide6-6" src="https://i.postimg.cc/vTy8ywyh/Screenshot-433.png">
+                </div>
+             
+            </section>
+            _______________
+            _______________
+            <section>
+              <div><h7>Pole delivery with safety</h7></div><div>
+                <img src="https://i.postimg.cc/RV7mmDpp/Screenshot-436.png"><img src="https://i.postimg.cc/rs5B8DjR/Screenshot-437.png">
+              </div>
+            </section>
+            _________________
+            _________________
+            <section>
+              <img src="https://i.postimg.cc/Hx90dH5s/Screenshot-439.png">
+              <div>
+                <h9>Ranjers Infrastructure Pvt.Ltd Yeola</h9>
+                <div> <h10>Our Services: We Provide Service to You All Our In Maharashtra</h10></div>
+              </div>
+              <div><h10>Director: 1)Sameer Chavan </h10><h10>2)Ajit Chavan</h10></div>
+              <div><h10>Contact: 7020661577/8806724517</h10>
+            </section>
+              _________________
+              _________________
+              <div><h11>Made by=Ranveer.S.Chavan</h11></div>              ________________
+              ________________
+      </body>
+    </html>
+          
